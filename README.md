@@ -1,4 +1,4 @@
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Programador">
 
 <p align="left"> 
   🌎 Hello World, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
