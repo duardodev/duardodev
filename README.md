@@ -17,15 +17,15 @@
 </p>
 
 <p align="left">
-  <a href="www.instagram.com/eduardoalmeida280/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8257E6&link=https://www.instagram.com/eduardoalmeida280"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/deivit-eduardo-1aa65420b/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=8257E6&link=https://https://www.linkedin.com/in/deivit-eduardo-1aa65420b"/>
   </a>
   
   <a href="https://mail.google.com/mail/u/?authuser=eduardoalmeida5547@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=8257E6" />
+    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=8257E6"/>
  </a>
+  
+  <a href="https://www.instagram.com/eduardoalmeida280" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8257E6&link=https://www.instagram.com/eduardoalmeida280"/>
+  </a>
 </p>
