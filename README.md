@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=8257E6"/>
  </a>
   
-  <a href="https://www.instagram.com/eduardoalmeida280" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8257E6&link=https://www.instagram.com/eduardoalmeida280"/>
+  <a href="https://www.instagram.com/im_duardo07" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=8257E6&link=https://www.instagram.com/im_duardo07"/>
   </a>
 </p>
