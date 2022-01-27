@@ -1,11 +1,11 @@
 <img src="https://github.com/eduardoalmeida45/eduardoalmeida45/blob/main/images/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Coding">
 
 <p align="left"> 
- 🧪 Hello World, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
+  🌎 Hello World, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript e Python.</strong>
+  🧪 Habilidades: <strong>HTML, CSS, JavaScript e Python.</strong>
 </p>
 
 <p align="left">
@@ -18,14 +18,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deivit-eduardo" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-F40735?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/deivit-eduardo"/>
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/deivit-eduardo"/>
   </a>
   
   <a href="mailto:eduardoalmeida5547@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-F40735?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:eduardoalmeida5547@gmail.com"/>
+    <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:eduardoalmeida5547@gmail.com"/>
  </a>
   
   <a href="https://www.instagram.com/im_duardo07" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-F40735?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/im_duardo07"/>
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/im_duardo07"/>
   </a>
 </p>
