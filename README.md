@@ -18,14 +18,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deivit-eduardo" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/deivit-eduardo"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=6610F2&link=https://www.linkedin.com/in/deivit-eduardo"/>
   </a>
   
   <a href="mailto:eduardoalmeida5547@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:eduardoalmeida5547@gmail.com"/>
+    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=6610F2&link=mailto:eduardoalmeida5547@gmail.com"/>
  </a>
   
   <a href="https://www.instagram.com/im_duardo07" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/im_duardo07"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=6610F2&link=https://www.instagram.com/im_duardo07"/>
   </a>
 </p>
