@@ -1,7 +1,7 @@
 <img src="https://github.com/eduardoalmeida45/eduardoalmeida45/blob/main/images/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Coding">
 
 <p align="left"> 
-  🌎 Hello World, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
+  🌎 Olá, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
 </p>
 
 <p align="left">
