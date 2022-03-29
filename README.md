@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🧪 Habilidades: <strong>HTML, CSS, JavaScript e Python.</strong>
+  🧪 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS e TypeScript</strong>
 </p>
 
 <p align="left">
