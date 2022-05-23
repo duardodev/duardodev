@@ -1,4 +1,4 @@
-<img src="https://github.com/eduardoalmeida45/eduardoalmeida45/blob/main/images/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Coding">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem de um computador">
 
 <p align="left"> 
   🌎 Olá, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
