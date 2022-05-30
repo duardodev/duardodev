@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-070A1C?style=for-the-badge&logo=Linkedin&logoColor=00d2ef&link=https://www.linkedin.com/in/deivit-eduardo"/>
   </a>
   
-  <a href="mailto:eduardoalmeida5547@gmail.com" alt="Gmail">
+  <a href="mailto:deiviteduardo87@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=00d2ef&link=mailto:eduardoalmeida5547@gmail.com"/>
  </a>
   
