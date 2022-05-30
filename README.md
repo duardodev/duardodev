@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Vercel, Git e GitHub.</strong>
 </p>
 
 <p align="left">
@@ -18,14 +18,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deivit-eduardo" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-070A1C?style=for-the-badge&logo=Linkedin&logoColor=00d2ef&link=https://www.linkedin.com/in/deivit-eduardo"/>
+    <img src="https://img.shields.io/badge/-Linkedin-070A1C?style=for-the-badge&logo=Linkedin&logoColor=00B0FF&link=https://www.linkedin.com/in/deivit-eduardo"/>
   </a>
   
   <a href="mailto:deiviteduardo87@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=00d2ef&link=mailto:eduardoalmeida5547@gmail.com"/>
+    <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=00B0FF&link=mailto:eduardoalmeida5547@gmail.com"/>
  </a>
   
   <a href="https://www.instagram.com/im_duardo07" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-070A1C?style=for-the-badge&logo=Instagram&logoColor=00d2ef&link=https://www.instagram.com/im_duardo07"/>
+    <img src="https://img.shields.io/badge/-Instagram-070A1C?style=for-the-badge&logo=Instagram&logoColor=00B0FF&link=https://www.instagram.com/im_duardo07"/>
   </a>
 </p>
