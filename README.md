@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong>HTML, CSS, JavaScript, Sass, ReactJS, TypeScript, Styled Components e Tailwind CSS.</strong>
+  🧪 Tecnologias: <strong>HTML, CSS, JavaScript, Sass, ReactJS, TypeScript, Styled Components e Tailwind CSS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Vercel, Git e GitHub.</strong>
+  🛠 Ferramentas: <strong>VS Code, Figma, Vercel, Git e GitHub.</strong>
 </p>
 
 <p align="left">
