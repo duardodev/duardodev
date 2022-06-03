@@ -1,11 +1,11 @@
 <img src="images/coding.svg" min-width="300px" max-width="300px" width="400px" align="right" alt="Imagem de um computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
+  🎉 Olá, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
 </p>
 
 <p align="left">
-  🧪 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, TypeScript e Styled Components.</strong>
+  🚀 Tecnologias: <strong>HTML, CSS, JavaScript, Sass, ReactJS, TypeScript, Styled Components e Tailwind CSS.</strong>
 </p>
 
 <p align="left">
