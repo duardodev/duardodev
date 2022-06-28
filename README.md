@@ -1,4 +1,4 @@
-<img src="images/coding.svg" width="400px" align="right" alt="Imagem de um computador">
+<img src="images/coding.svg" width="340px" align="right" alt="Imagem de um computador">
 
 <p align="left"> 
   🎉 Olá, meu nome é Deivit Eduardo. Sou <strong>Desenvolvedor Front-End</strong>.
