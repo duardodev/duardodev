@@ -1,6 +1,6 @@
 # Olá devs 👋
 
-<img src="images/coding.svg" min-width="340px" max-width="340px" width="340px" align="right" alt="Imagem de um computador">
+<img src="images/coding.svg" min-width="320px" max-width="320px" width="320px" align="right" alt="Imagem de um computador">
 
 - ☕ Me chamo Deivit Eduardo, tenho 16 anos, iniciei na área de **Desenvolvimente Web** com foco em **Front-end** há 1 ano e sigo em busca de aprimorar minhas habilidades!
 
