@@ -29,7 +29,7 @@ Aqui estão algumas das tecnologias que utilizo:
 
 - Contribuir com a comunidade.
 - Evoluir ainda mais no desenvolvimento de aplicações.
-- Ajudar pessoas que queiram começar na área de desenvolvimento.
+- Ajudar pessoas que queiram começar na área de programação.
 
 ### 📫 Entre em contato:
 
