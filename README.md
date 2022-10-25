@@ -1,5 +1,5 @@
 <h2 align='center'>
-  Olá devs! Sejam bem-vindos :)
+  Olá dev's! Sejam bem-vindos :)
 </h2>
 
 ### 🖖 Sobre mim:
