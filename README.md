@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias que utilizo:
   <img align="center" alt="" title="Styled Components" height="35" width="40" src="https://skillicons.dev/icons?i=styledcomponents">
 </div>
 
-### ✨ Objetivos:
+### 🔮 Objetivos:
 
 - Contribuir com a comunidade.
 - Evoluir ainda mais no desenvolvimento de aplicações.
