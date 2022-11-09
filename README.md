@@ -6,8 +6,8 @@
 
 <p><em>Me chamo Deivit Eduardo, tenho 16 anos e iniciei na área de programação com foco em Front-end há 1 ano e sigo buscando aprimorar meus conhecimentos na área!</em></p>
 
-- 🚀 Atualmente estou estudando ReactJS, Next.js e TypeScript.
-- ⚡ Ferramentas que eu utilizo diariamente: **VS Code, Figma, Vercel, Insominia, Git e GitHub.**
+- 🚀 Atualmente estou me especializando em **ReactJS**, **Next.js** e **TypeScript**.
+- ⚡ Ferramentas que eu utilizo diariamente: **VS Code**, **Figma**, **Vercel**, **Insominia**, **Git** e **GitHub**.
 
 ### 🧪 Tecnologias:
 
