@@ -38,7 +38,7 @@ Aqui estão algumas das tecnologias que utilizo:
 </a>
 
 <a href="mailto:deiviteduardo87@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=9333ea&link=mailto:eduardoalmeida5547@gmail.com"/>
+  <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=9333ea&link=mailto:deiviteduardo87@gmail.com"/>
 </a>
 
 <a href="https://www.instagram.com/xeduardozz_" alt="Instagram">
