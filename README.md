@@ -17,10 +17,10 @@ Aqui estão algumas das tecnologias que utilizo:
   <img align="center" alt="" title="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" title="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" title="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="" title="ReactJS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="" title="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="" title="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="" title="Next.js" height="35" width="40" src="https://skillicons.dev/icons?i=nextjs">
-  <img align="center" alt="" title="TailwindCSS" height="35" width="40" src="https://skillicons.dev/icons?i=tailwindcss">
+  <img align="center" alt="" title="Tailwind CSS" height="35" width="40" src="https://skillicons.dev/icons?i=tailwindcss">
   <img align="center" alt="" title="Sass" height="35" width="40" src="https://skillicons.dev/icons?i=sass">
   <img align="center" alt="" title="Styled Components" height="35" width="40" src="https://skillicons.dev/icons?i=styledcomponents">
 </div>
