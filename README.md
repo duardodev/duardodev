@@ -2,7 +2,7 @@
   Olá dev's! Sejam bem-vindos :)
 </h2>
 
-### ☕ Sobre mim:
+### 👋 Sobre mim:
 
 <p><em>Me chamo Deivit Eduardo, tenho 16 anos e iniciei na área de programação com foco em Front-end há 1 ano e sigo buscando aprimorar meus conhecimentos na área!</em></p>
 
