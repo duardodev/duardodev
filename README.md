@@ -34,13 +34,13 @@ Aqui estão algumas das tecnologias que utilizo no desenvolvimento:
 ### 📫 Entre em contato:
 
 <a href="https://www.linkedin.com/in/deivit-eduardo" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-070A1C?style=for-the-badge&logo=Linkedin&logoColor=9333ea&link=https://www.linkedin.com/in/deivit-eduardo"/>
+  <img src="https://img.shields.io/badge/-Linkedin-070A1C?style=for-the-badge&logo=Linkedin&logoColor=64748b&link=https://www.linkedin.com/in/deivit-eduardo"/>
 </a>
 
 <a href="mailto:deiviteduardo87@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=9333ea&link=mailto:deiviteduardo87@gmail.com"/>
+  <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=64748b&link=mailto:deiviteduardo87@gmail.com"/>
 </a>
 
 <a href="https://www.instagram.com/xeduardozz_" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-070A1C?style=for-the-badge&logo=Instagram&logoColor=9333ea&link=https://www.instagram.com/xeduardozz_"/>
+  <img src="https://img.shields.io/badge/-Instagram-070A1C?style=for-the-badge&logo=Instagram&logoColor=64748b&link=https://www.instagram.com/xeduardozz_"/>
 </a>
