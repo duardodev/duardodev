@@ -4,7 +4,7 @@
 
 ### 👋 Sobre mim:
 
-<p><em>Me chamo Deivit Eduardo, tenho 16 anos e iniciei na área de programação com foco em Front-end há 1 ano e sigo buscando aprimorar meus conhecimentos na área!</em></p>
+<p><em>Me chamo Deivit Eduardo, tenho 16 anos e iniciei na área de programação com foco em Front-end há 1 ano e sigo buscando aprimorar meus conhecimentos!</em></p>
 
 - 🚀 Atualmente estou me especializando em **React**, **Next.js** e **TypeScript**.
 - 🧰 Ferramentas que estou utilizando diariamente: **VS Code**, **Figma**, **Vercel**, **Git**, **GitHub** e **Insominia**.
