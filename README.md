@@ -25,12 +25,6 @@ Aqui estão algumas das tecnologias que utilizo no desenvolvimento:
   <img align="center" alt="" title="Tailwind CSS" height="35" width="40" src="https://skillicons.dev/icons?i=tailwindcss">
 </div>
 
-### 🔮 Objetivos:
-
-- Contribuir com a comunidade.
-- Evoluir ainda mais no desenvolvimento de aplicações.
-- Ajudar pessoas que queiram começar na área de programação.
-
 ### 📫 Entre em contato:
 
 <a href="https://www.linkedin.com/in/deivit-eduardo" alt="Linkedin">
