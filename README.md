@@ -1,5 +1,5 @@
 <h2 align='center'>
-  Sejam bem-vindos 💙
+  Sejam Bem-vindos! 💙
 </h2>
 
 ### 👋 Sobre mim:
