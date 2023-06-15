@@ -7,7 +7,7 @@
 <p><em>Olá, meu nome é Deivit Eduardo, tenho 17 anos e comecei minha jornada na área de programação há dois anos, com ênfase em desenvolvimento Front-end. Desde então, tenho buscado constantemente aprimorar meus conhecimentos nessa área empolgante!</em></p>
 
 - 🚀 Atualmente estou estudando: **Next.js** e **TypeScript**.
-- 🧰 Ferramentas que estou utilizando diariamente: **VS Code**, **Figma**, **Notion**, **Vercel**, **Git**, **GitHub** e **Insominia**.
+- 🧰 Ferramentas que estou utilizando diariamente: **VS Code**, **Figma**, **Notion**, **Vercel**, **Insominia**, **Git** e **GitHub**.
 
 ### 👨‍💻 Tecnologias:
 
