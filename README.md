@@ -1,6 +1,8 @@
-<h2 align='center'>
+<h3 align='center'>
   Sejam Bem-vindos! 💙
-</h2>
+</h3>
+
+---
 
 ### 👋 Sobre mim:
 
