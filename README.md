@@ -1,5 +1,5 @@
 <h3 align='center'>
-  Sejam Bem-vindos 👋
+  Sejam Bem-vindos! 👋
 </h3>
 
 ---
