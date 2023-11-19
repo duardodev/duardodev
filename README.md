@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-070A1C?style=for-the-badge&logo=Linkedin&logoColor=93c5fd&link=https://www.linkedin.com/in/deivit-eduardo"/>
 </a>
 
-<a href="https://www.instagram.com/xeduardozz_" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-070A1C?style=for-the-badge&logo=Instagram&logoColor=93c5fd&link=https://www.instagram.com/xeduardozz_"/>
-</a>
-
 <a href="mailto:deiviteduardo87@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-070A1C?style=for-the-badge&logo=Gmail&logoColor=93c5fd&link=mailto:deiviteduardo87@gmail.com"/>
 </a>
