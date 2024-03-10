@@ -6,5 +6,5 @@ Minha fascinação pela tecnologia surgiu desde cedo, o que me levou a ter meu p
 
 Estou entusiasmado para contribuir com minhas habilidades e conhecimentos para uma equipe que valorize o avanço e a inovação. Se você está à procura de um desenvolvedor Front-End, vamos conversar!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-06b6d4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivit-eduardo/)](https://www.linkedin.com/in/iuricode/) 
-[![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-06b6d4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-4338ca?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivit-eduardo/)](https://www.linkedin.com/in/iuricode/) 
+[![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-4338ca?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
