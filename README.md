@@ -1,4 +1,4 @@
-## Olá, me chamo Deivit! 👋
+## Olá, me chamo Deivit Eduardo 👋
 
 Sou um desenvolvedor Front-End com sólida experiência em JavaScript, TypeScript, React, Next.js e entre outras tecnologias.
 
