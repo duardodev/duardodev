@@ -8,29 +8,3 @@ Sou desenvolvedor Front-End com sólido conhecimento em JavaScript, React, Next.
 Iniciei minha jornada na programação há 2 anos com HTML, CSS e JavaScript, e desde então, tenho desenvolvido diversas interfaces afim de melhorar minhas habilidades, aprender novas tecnologias e conceitos, e enfrentar novos desafios.
 
 Meu objetivo como desenvolvedor é entregar interfaces que sejam não apenas intuitivas e funcionais, mas também visualmente atraentes, buscando sempre a experiência e a satisfação dos usuários. Tenho interesse em UX/UI design e constatemente estou em busca de novas formas de aprimorar essa habilidade.
-
----
-
-<strong align="left">Minhas habilidades:</strong>
-
-<p align="left">
-  <img width="30px" src="https://skillicons.dev/icons?i=html" alt="html icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=css" alt="css icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=sass" alt="sass icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=react" alt="react icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=typescript" alt="typescript icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss icon"/>
-  &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs icon"/>
-</p>
