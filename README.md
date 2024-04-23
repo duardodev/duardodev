@@ -1,4 +1,4 @@
-## Olá, me chamo Deivit Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, me chamo Deivit Eduardo
 
 Desenvolvedor Front-End com sólido conhecimento em JavaScript, React.js, Next.js, TypeScript e entre outras tecnoloigas. Comprometido em criar interfaces intuitivas e visualmente atraentes para proporcionar a melhor experiência aos usuários.
 
