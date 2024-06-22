@@ -4,5 +4,5 @@ Desenvolvedor Front-End com sólido conhecimento em React.js, Next.js, TypeScrip
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Styled Components`
 
-[![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-EA580C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivit-eduardo/)](https://www.linkedin.com/in/deivit-eduardo/) 
-[![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-EA580C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-0284c7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivit-eduardo/)](https://www.linkedin.com/in/deivit-eduardo/) 
+[![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-0284c7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
