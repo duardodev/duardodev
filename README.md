@@ -1,8 +1,8 @@
-## Olá, me chamo Deivit Eduardo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> 
+## Olá, eu sou Deivit Eduardo!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> 
 
-Desenvolvedor Front-End com sólido conhecimento em React.js, Next.js, TypeScript e entre outras tecnologias. Comprometido em criar interfaces intuitivas e visualmente atraentes afim de proporcionar a melhor experiência aos usuários.
+Desenvolvedor front-end com em média 2 anos de experiência em JavaScript, TypeScript, React, Next.js, Node.js e outras tecnologias. 
 
-**Conhecimentos:** `HTML` `CSS` `JavaScript` `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Styled Components`
+Gosto de criar interfaces intuitivas, funcionais e atraentes afim de proporcionar a melhor experiência aos usuários.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-0284c7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivit-eduardo/)](https://www.linkedin.com/in/deivit-eduardo/) 
 [![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-0284c7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
