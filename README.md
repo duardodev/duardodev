@@ -1,5 +1,5 @@
-## Deivit Eduardo 
+### Olá 👋
 
-Desenvolvedor front-end com um pouco mais de 3 anos de experiência desenvolvendo aplicações e interfaces interativas. Possuo sólido conhecimento em HTML, CSS, JavaScript, TypeScript, React, Next.js e outras tecnologias do ecossistema JavaScript.
+Meu nome é Deivit Eduardo, sou um Desenvolvedor de Software e entusiasta do ecossistema JavaScript. Com um pouco mais de 2 anos desenvolvendo aplicações web, tenho como foco construir soluções digitais utilizando React, Next.js, TypeScript, entre outras tecnologias.
 
 Para conhecer um pouco mais sobre mim, <a href="https://duardodev.vercel.app" target="_blank">acesse meu portfólio</a>!
