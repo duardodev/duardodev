@@ -1,5 +1,10 @@
-### Olá 👋
+# Deivit Eduardo
 
-Eu sou Deivit Eduardo, um Desenvolvedor de Software apaixonado pelo ecossistema JavaScript. Com 2 anos desenvolvendo aplicações web, tenho focado em construir soluções digitais utilizando React, Next.js e TypeScript em conjunto com outras tecnologias.
+### Software Developer
 
-Para conhecer um pouco mais sobre mim, <a href="https://duardodev.vercel.app" target="_blank">acesse meu portfólio</a>!
+[![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-6b86e8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiviteduardo/)](https://www.linkedin.com/in/deiviteduardo/) 
+[![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-6b86e8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
+
+Software Developer passionate about the JavaScript ecosystem and building web applications. With 2 years of experience in front-end development, I focus on builting digital solutions using React/Next.js, and TypeScript, along with other market-leading technologies.
+
+A little more about me <a href="https://duardodev.vercel.app" target="_blank">here</a>!
