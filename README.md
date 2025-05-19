@@ -1,10 +1,11 @@
-# Deivit Eduardo
+# Hi👋, I'm Deivit
 
-### Software Developer
+I'm a Software Developer passionate about building web applications. With 3 years of experience in web development, I focus on creating digital solutions using React, Next.js, and TypeScript, along with other technologies.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-6b86e8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiviteduardo/)](https://www.linkedin.com/in/deiviteduardo/) 
-[![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-6b86e8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
+- 🌱 Currently working at [TuneReveal](https://tunereveal.vercel.app/).
+- 🚀 I'm currently learning: Java, Spring Boot and Python.
+- 📫 <a href="https://duardodev.vercel.app" target="_blank">More about me</a>
 
-Software Developer passionate about the JavaScript ecosystem and building web applications. With 2 years of experience in front-end development, I focus on builting digital solutions using React/Next.js, and TypeScript, along with other market-leading technologies.
-
-A little more about me <a href="https://duardodev.vercel.app" target="_blank">here</a>!
+## 🌐 Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deiviteduardo/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
