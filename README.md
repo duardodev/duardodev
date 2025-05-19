@@ -2,7 +2,7 @@
 
 I'm a Software Developer passionate about building web applications. With 3 years of experience in web development, I focus on creating digital solutions using React, Next.js, and TypeScript, along with other technologies.
 
-- 🌱 Currently working at [TuneReveal](https://tunereveal.vercel.app/).
+- 🌱 I'm currently building [TuneReveal](https://tunereveal.vercel.app/).
 - 🚀 I'm currently learning: Java, Spring Boot and Python.
 - 📫 <a href="https://duardodev.vercel.app" target="_blank">More about me</a>
 
