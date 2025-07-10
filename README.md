@@ -1,11 +1,10 @@
-# Hi👋, I'm Deivit
+# Deivit Eduardo
 
-I'm a Software Developer passionate about building web applications. With 3 years of experience in web development, I focus on creating digital solutions using React, Next.js, and TypeScript, along with other technologies.
+[![Linkedin Badge](https://img.shields.io/badge/-Deivit%20Eduardo-6b86e8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiviteduardo/)](https://www.linkedin.com/in/deiviteduardo/) 
+[![Gmail Badge](https://img.shields.io/badge/-deiviteduardo87@gmail.com-6b86e8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
 
-- 🌱 I'm currently building [TuneReveal](https://tunereveal.vercel.app/).
-- 🚀 I'm currently learning: Java, Spring Boot and Python.
-- 📫 <a href="https://duardodev.vercel.app" target="_blank">More about me</a>
+I'm a Software Developer passionate about building web applications. With around 2 years of experience in web development, I’ve been focusing on creating scalable and user-friendly digital solutions using TypeScript and React/Next.js, along with backend technologies such as Node.js and Spring Boot.
 
-## 🌐 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deiviteduardo/)
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&link=mailto:deiviteduardo87@gmail.com)](mailto:deiviteduardo87@gmail.com)
+- 🌱 Currently building: [TuneReveal](https://tunereveal.vercel.app/).
+- 🚀 Currently learning: Java/Spring Boot and Python.
+- 📫 <a href="https://duardodev.vercel.app" target="_blank">More about me here!</a>
