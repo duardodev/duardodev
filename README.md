@@ -6,5 +6,5 @@
 I'm a Software Developer passionate about building web applications. With around 2 years of experience in web development, I’ve been focusing on creating scalable and user-friendly digital solutions using TypeScript and React/Next.js, along with backend technologies such as Node.js and Python.
 
 - 🌱 Currently building: [TuneReveal](https://tunereveal.vercel.app/).
-- 🚀 Currently learning: C++, Docker and Python.
+- 🚀 Currently learning: VTEX IO, C++, Docker.
 - 📫 <a href="https://duardodev.vercel.app" target="_blank">More about me here!</a>
